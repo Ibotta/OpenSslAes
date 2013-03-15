@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 require './open_ssl_aes'
 
 mode = ARGV[0]
