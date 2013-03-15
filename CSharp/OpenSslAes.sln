@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenSslAes", "OpenSslAes\OpenSslAes.csproj", "{A25D5999-2E59-4B02-98A9-3E001FFD1862}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A25D5999-2E59-4B02-98A9-3E001FFD1862}.Debug|x86.ActiveCfg = Debug|x86
+		{A25D5999-2E59-4B02-98A9-3E001FFD1862}.Debug|x86.Build.0 = Debug|x86
+		{A25D5999-2E59-4B02-98A9-3E001FFD1862}.Release|x86.ActiveCfg = Release|x86
+		{A25D5999-2E59-4B02-98A9-3E001FFD1862}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = OpenSslAes\OpenSslAes.csproj
+	EndGlobalSection
+EndGlobal
